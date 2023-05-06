@@ -1,2 +1,2 @@
 # unify
-community web application
+flask based community web application
